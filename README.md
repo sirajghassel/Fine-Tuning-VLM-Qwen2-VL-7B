@@ -12,13 +12,13 @@ This notebook demonstrates a **basic implementation** of fine-tuning the [`Qwen2
 
 ---
 
-## What You’ll Learn
+## What I Learned
 
 - How to load and configure a multimodal transformer (Qwen2-VL-7B)
 - How to prepare image-text datasets for fine-tuning
 - How to tokenize and process vision-language pairs
 - How to train and evaluate a VLM using `transformers` and `accelerate`
-- How to save and push your model to the Hugging Face Hub
+- How to save and push models to the Hugging Face Hub
 
 ---
 
